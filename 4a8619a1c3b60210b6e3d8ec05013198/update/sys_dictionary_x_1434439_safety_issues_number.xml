@@ -33,7 +33,7 @@
         <name>x_1434439_safety_issues</name>
         <next_element/>
         <primary>false</primary>
-        <read_only>false</read_only>
+        <read_only>true</read_only>
         <read_roles/>
         <reference/>
         <reference_cascade_rule/>
@@ -53,7 +53,7 @@
         <sys_scope display_value="Safety">4a8619a1c3b60210b6e3d8ec05013198</sys_scope>
         <sys_update_name>sys_dictionary_x_1434439_safety_issues_number</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-14 21:53:32</sys_updated_on>
+        <sys_updated_on>2024-06-14 21:59:25</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
