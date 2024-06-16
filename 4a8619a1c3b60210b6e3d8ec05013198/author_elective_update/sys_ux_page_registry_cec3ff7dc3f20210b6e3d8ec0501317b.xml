@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>c2c3ff7dc3f20210b6e3d8ec0501317c</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <parent_app display_value="Portal UI Template Parent App">de0b852eb0c88210f8774b320398b357</parent_app>
+        <path>safety-portal</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-16 01:34:54</sys_created_on>
+        <sys_id>cec3ff7dc3f20210b6e3d8ec0501317b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safety Portal</sys_name>
+        <sys_package display_value="Safety" source="x_1434439_safety">4a8619a1c3b60210b6e3d8ec05013198</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">4a8619a1c3b60210b6e3d8ec05013198</sys_scope>
+        <sys_update_name>sys_ux_page_registry_cec3ff7dc3f20210b6e3d8ec0501317b</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-16 01:34:54</sys_updated_on>
+        <title>Safety Portal</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">4a8619a1c3b60210b6e3d8ec05013198</application>
+        <file_path/>
+        <instance_id>7d047f93db61869837d72a59139619a9</instance_id>
+        <instance_name>dev260498</instance_name>
+        <name>sys_ux_page_registry_cec3ff7dc3f20210b6e3d8ec0501317b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>c2c3ff7dc3f20210b6e3d8ec0501317c</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes>{"login":"login","logout": "login"}</auth_routes><page/><parent_app display_value="Portal UI Template Parent App">de0b852eb0c88210f8774b320398b357</parent_app><path>safety-portal</path><root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-06-16 01:34:54</sys_created_on><sys_id>cec3ff7dc3f20210b6e3d8ec0501317b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Safety Portal</sys_name><sys_package display_value="Safety" source="x_1434439_safety">4a8619a1c3b60210b6e3d8ec05013198</sys_package><sys_policy/><sys_scope display_value="Safety">4a8619a1c3b60210b6e3d8ec05013198</sys_scope><sys_update_name>sys_ux_page_registry_cec3ff7dc3f20210b6e3d8ec0501317b</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-06-16 01:34:54</sys_updated_on><title>Safety Portal</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-2074378320</payload_hash>
+        <record_name>Safety Portal</record_name>
+        <reverted_from/>
+        <source>063bd400c3320210b6e3d8ec050131bb</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-06-09 23:19:16</sys_created_on>
+        <sys_id>56ad37f9c3360210b6e3d8ec050131f4</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18fff4c85200000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>16ad37f9cd36021035835ac6ded461f4</update_guid>
+        <update_guid_history>16ad37f9cd36021035835ac6ded461f4:-2074378320</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-16 02:18:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>9b41272bafe544e0b8c1370e1d096e40</sys_id>
+        <sys_metadata>cec3ff7dc3f20210b6e3d8ec0501317b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safety Portal</sys_name>
+        <sys_package display_value="Safety" source="x_1434439_safety">4a8619a1c3b60210b6e3d8ec05013198</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">4a8619a1c3b60210b6e3d8ec05013198</sys_scope>
+        <sys_scope_delete display_value="">000b1b5099014fdf8811045aa952eae1</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_cec3ff7dc3f20210b6e3d8ec0501317b</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_cec3ff7dc3f20210b6e3d8ec0501317b">56ad37f9c3360210b6e3d8ec050131f4</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-16 02:18:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

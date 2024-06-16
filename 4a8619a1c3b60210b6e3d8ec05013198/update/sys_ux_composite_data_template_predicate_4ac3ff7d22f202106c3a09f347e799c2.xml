@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="sysapproval_approver">approverDYNAMIC90d1921e5f510100a9ad2572f2b477fe^state=requested^EQ<item endquery="false" field="approver" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item display_value="Requested" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="requested"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>due_date,sysapproval.short_description,sysapproval.number,sys_created_on</field_list>
+        <name>My Tasks</name>
+        <order/>
+        <predicate_bundle display_value="My Tasks - Task bundle">4ac3ff7d6bf20210e7066e94e185ddc5</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-16 01:34:53</sys_created_on>
+        <sys_id>4ac3ff7d22f202106c3a09f347e799c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Tasks</sys_name>
+        <sys_package display_value="Safety" source="x_1434439_safety">4a8619a1c3b60210b6e3d8ec05013198</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">4a8619a1c3b60210b6e3d8ec05013198</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_4ac3ff7d22f202106c3a09f347e799c2</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-16 01:34:53</sys_updated_on>
+        <table>sysapproval_approver</table>
+        <ux_template display_value="Custom Portal Landing - My Tasks template">0ac3ff7de1f20210ef7340f833d639c3</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

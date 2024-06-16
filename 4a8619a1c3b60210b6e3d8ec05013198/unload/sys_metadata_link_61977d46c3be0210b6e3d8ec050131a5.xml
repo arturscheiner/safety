@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>891f80c2ccb60210574589369690471d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_m2m_asset">
+    <sys_ux_theme_m2m_asset action="INSERT_OR_UPDATE">
+        <asset display_value="now-logo-dark">c11f80c2d0b602109e9a4f3efc833c1e</asset>
+        <properties>{&#13;
+"position": "header_logo"&#13;
+}</properties>
+        <sys_class_name>sys_ux_theme_m2m_asset</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-16 03:34:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>891f80c2ccb60210574589369690471d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Safety" source="x_1434439_safety">4a8619a1c3b60210b6e3d8ec05013198</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">4a8619a1c3b60210b6e3d8ec05013198</sys_scope>
+        <sys_update_name>sys_ux_theme_m2m_asset_891f80c2ccb60210574589369690471d</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-16 03:34:08</sys_updated_on>
+        <theme display_value="Light Theme">c91f80c2b5b602103d22bc679924e552</theme>
+    </sys_ux_theme_m2m_asset>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 11:10:41</sys_created_on>
+        <sys_id>61977d46c3be0210b6e3d8ec050131a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_1434439_safety">4a8619a1c3b60210b6e3d8ec05013198</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">4a8619a1c3b60210b6e3d8ec05013198</sys_scope>
+        <sys_update_name>sys_metadata_link_61977d46c3be0210b6e3d8ec050131a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 11:10:41</sys_updated_on>
+        <tablename>sys_ux_theme_m2m_asset</tablename>
+    </sys_metadata_link>
+</record_update>

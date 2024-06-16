@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config/>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Attachments</name>
+        <optional_parameters/>
+        <order>300</order>
+        <parent_macroponent display_value="Record Page(task)">9ec3ff7d38f202104b42e32c2a4570de</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>rec_task_attachment</route_type>
+        <screen_type display_value="Attachments">92c3ff7d13f2021075fc30b730c9d0de</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-16 01:34:54</sys_created_on>
+        <sys_id>1ac3ff7d73f202109ca208df53cf0dde</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attachments</sys_name>
+        <sys_package display_value="Safety" source="x_1434439_safety">4a8619a1c3b60210b6e3d8ec05013198</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">4a8619a1c3b60210b6e3d8ec05013198</sys_scope>
+        <sys_update_name>sys_ux_app_route_1ac3ff7d73f202109ca208df53cf0dde</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-16 01:34:54</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=1ac3ff7d73f202109ca208df53cf0dde"/>
+</record_update>

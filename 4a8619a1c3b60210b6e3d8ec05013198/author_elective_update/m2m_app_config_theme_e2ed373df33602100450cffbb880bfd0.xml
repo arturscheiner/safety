@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability display_value="Public">aeed373df13602100b72797bb4fd72ce</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-16 02:19:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e2ed373df33602100450cffbb880bfd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Safety" source="x_1434439_safety">4a8619a1c3b60210b6e3d8ec05013198</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">4a8619a1c3b60210b6e3d8ec05013198</sys_scope>
+        <sys_update_name>m2m_app_config_theme_e2ed373df33602100450cffbb880bfd0</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-16 02:19:07</sys_updated_on>
+        <theme display_value="Light Theme">62ed373d1236021092085975499ef1cf</theme>
+        <ux_app_configuration display_value="">52ed373dc3360210b6e3d8ec05013170</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">4a8619a1c3b60210b6e3d8ec05013198</application>
+        <file_path/>
+        <instance_id>7d047f93db61869837d72a59139619a9</instance_id>
+        <instance_name>dev260498</instance_name>
+        <name>m2m_app_config_theme_e2ed373df33602100450cffbb880bfd0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability display_value="Public">aeed373df13602100b72797bb4fd72ce</applicability><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-06-16 02:19:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e2ed373df33602100450cffbb880bfd0</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Safety" source="x_1434439_safety">4a8619a1c3b60210b6e3d8ec05013198</sys_package><sys_policy/><sys_scope display_value="Safety">4a8619a1c3b60210b6e3d8ec05013198</sys_scope><sys_update_name>m2m_app_config_theme_e2ed373df33602100450cffbb880bfd0</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-06-16 02:19:07</sys_updated_on><theme display_value="Light Theme">62ed373d1236021092085975499ef1cf</theme><ux_app_configuration display_value="">52ed373dc3360210b6e3d8ec05013170</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>-1475308103</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>063bd400c3320210b6e3d8ec050131bb</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-06-09 23:19:16</sys_created_on>
+        <sys_id>77ee8c82c3b60210b6e3d8ec0501314e</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18fff4c85200000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Theme</type>
+        <update_guid>37ee8c827bb60210445911a5264be34e</update_guid>
+        <update_guid_history>37ee8c827bb60210445911a5264be34e:-1475308103</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">bfee8c82c3b60210b6e3d8ec0501314e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-16 03:33:27</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>3b30ec3f883f419ab3314a4191f83be4</sys_id>
+        <sys_metadata>e2ed373df33602100450cffbb880bfd0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_1434439_safety">4a8619a1c3b60210b6e3d8ec05013198</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">4a8619a1c3b60210b6e3d8ec05013198</sys_scope>
+        <sys_scope_delete display_value="">000b1b5099014fdf8811045aa952eae1</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_e2ed373df33602100450cffbb880bfd0</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_e2ed373df33602100450cffbb880bfd0">77ee8c82c3b60210b6e3d8ec0501314e</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-16 03:33:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

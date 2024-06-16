@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Article page">26ed373ddc36021031c677e96490e7bd</macroponent>
+        <name>breadcrumbs_1_items</name>
+        <preset/>
+        <required_translations>[ {
+  "code" : null,
+  "message" : "Home",
+  "comment" : ""
+} ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.imports
+ */
+function evaluateProperty({
+    api,
+    helpers
+}) {
+    return [{
+            "label": helpers.translateSync("Home"),
+            "icon": "home-outline",
+            "hideLabel": false
+        },
+        {
+            "label": api.data.get_article_details_1.articleDetails.articleInfo.number
+        }
+    ];
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-16 02:19:09</sys_created_on>
+        <sys_id>eeed373d7d3602105291621e37bd32b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>breadcrumbs_1_items</sys_name>
+        <sys_package display_value="Safety" source="x_1434439_safety">4a8619a1c3b60210b6e3d8ec05013198</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">4a8619a1c3b60210b6e3d8ec05013198</sys_scope>
+        <sys_update_name>sys_ux_client_script_eeed373d7d3602105291621e37bd32b2</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-16 02:19:09</sys_updated_on>
+        <target/>
+        <type>transform</type>
+    </sys_ux_client_script>
+</record_update>

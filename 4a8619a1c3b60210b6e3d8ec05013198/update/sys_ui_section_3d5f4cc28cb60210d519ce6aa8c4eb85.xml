@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="3d5f4cc28cb60210d519ce6aa8c4eb85" sys_domain="global" table="sys_user" version="3" view="6_custom_portal_settings_x_1434439_safety">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-06-16 03:35:17</sys_created_on>
+            <sys_id>b15f4cc228b60210aa5e23e885e67186</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="fd5f4cc21fb60210945b466d673b4f85">3d5f4cc28cb60210d519ce6aa8c4eb85</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-06-16 03:35:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-06-16 03:35:17</sys_created_on>
+            <sys_id>755f4cc24eb602109bee932dc3301686</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="fd5f4cc21fb60210945b466d673b4f85">3d5f4cc28cb60210d519ce6aa8c4eb85</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-06-16 03:35:17</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_language</element>
+            <position>2</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-06-16 03:35:17</sys_created_on>
+            <sys_id>b55f4cc2e4b60210c935d28e3df77d84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="fd5f4cc21fb60210945b466d673b4f85">3d5f4cc28cb60210d519ce6aa8c4eb85</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-06-16 03:35:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-06-16 03:35:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d5f4cc28cb60210d519ce6aa8c4eb85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Safety" source="x_1434439_safety">4a8619a1c3b60210b6e3d8ec05013198</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Safety">4a8619a1c3b60210b6e3d8ec05013198</sys_scope>
+            <sys_update_name>sys_ui_section_3d5f4cc28cb60210d519ce6aa8c4eb85</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-06-16 03:35:17</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="6_custom_portal_settings_x_1434439_safety" name="6_custom_portal_settings_x_1434439_safety">fd5f4cc21fb60210945b466d673b4f85</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

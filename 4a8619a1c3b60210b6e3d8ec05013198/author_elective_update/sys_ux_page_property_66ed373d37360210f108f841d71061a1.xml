@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="Safety Issues Portal">5eed373dc3360210b6e3d8ec0501316f</page>
+        <required_translations>[ ]</required_translations>
+        <route display_value="Login">eeed373daa360210ec4c2e0181ed5dc1</route>
+        <suffix>chrome_header</suffix>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-16 02:19:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>66ed373d37360210f108f841d71061a1</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Safety" source="x_1434439_safety">4a8619a1c3b60210b6e3d8ec05013198</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">4a8619a1c3b60210b6e3d8ec05013198</sys_scope>
+        <sys_update_name>sys_ux_page_property_66ed373d37360210f108f841d71061a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 03:19:07</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1434439_safety.5eed373dc3360210b6e3d8ec0501316f.route.chrome_header.eeed373daa360210ec4c2e0181ed5dc1</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    },&#13;
+    "publicPage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    }&#13;
+ }</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=66ed373d37360210f108f841d71061a1"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">4a8619a1c3b60210b6e3d8ec05013198</application>
+        <file_path/>
+        <instance_id>7d047f93db61869837d72a59139619a9</instance_id>
+        <instance_name>dev260498</instance_name>
+        <name>sys_ux_page_property_66ed373d37360210f108f841d71061a1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="Safety Issues Portal">5eed373dc3360210b6e3d8ec0501316f</page><required_translations>[ ]</required_translations><route display_value="Login">eeed373daa360210ec4c2e0181ed5dc1</route><suffix>chrome_header</suffix><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-06-16 02:19:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>66ed373d37360210f108f841d71061a1</sys_id><sys_mod_count>2</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="Safety" source="x_1434439_safety">4a8619a1c3b60210b6e3d8ec05013198</sys_package><sys_policy/><sys_scope display_value="Safety">4a8619a1c3b60210b6e3d8ec05013198</sys_scope><sys_update_name>sys_ux_page_property_66ed373d37360210f108f841d71061a1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-16 03:19:07</sys_updated_on><type>json</type><unique_name>x_1434439_safety.5eed373dc3360210b6e3d8ec0501316f.route.chrome_header.eeed373daa360210ec4c2e0181ed5dc1</unique_name><value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    },&#13;
+    "publicPage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    }&#13;
+ }</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=66ed373d37360210f108f841d71061a1"/></record_update>]]></payload>
+        <payload_hash>422751712</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>196529a9c3b60210b6e3d8ec0501315e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 03:19:07</sys_created_on>
+        <sys_id>b5ab048ec3760210b6e3d8ec050131c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1901f0e44fd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 03:19:07</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>3dab048efe7602104b3359f9dd9073c3</update_guid>
+        <update_guid_history>3dab048efe7602104b3359f9dd9073c3:422751712,227bc84e41760210bcb6167811f72e1a:640165944,2a7bc84e577602100d8646f28d30fc18:1565996314</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 03:33:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>708dbc22708546d8abeeb04df49f4f10</sys_id>
+        <sys_metadata>66ed373d37360210f108f841d71061a1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Safety" source="x_1434439_safety">4a8619a1c3b60210b6e3d8ec05013198</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">4a8619a1c3b60210b6e3d8ec05013198</sys_scope>
+        <sys_scope_delete display_value="">000b1b5099014fdf8811045aa952eae1</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_66ed373d37360210f108f841d71061a1</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_66ed373d37360210f108f841d71061a1">b5ab048ec3760210b6e3d8ec050131c4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 03:33:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

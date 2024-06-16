@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>3e32625c5d2202100e0930fe45420776</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_m2m_asset">
+    <sys_ux_theme_m2m_asset action="INSERT_OR_UPDATE">
+        <asset display_value="Cabin-Regular">be32625c2c220210ff77f5cdc61dcc77</asset>
+        <properties>{&#13;
+"font-weight": "100",&#13;
+    "font-style":"normal"&#13;
+}</properties>
+        <sys_class_name>sys_ux_theme_m2m_asset</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-29 17:32:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3e32625c5d2202100e0930fe45420776</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="My Template App" source="x_1434439_my_tem_0">7232625c53220210d9568cfbe92e8074</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Template App">7232625c53220210d9568cfbe92e8074</sys_scope>
+        <sys_update_name>sys_ux_theme_m2m_asset_3e32625c5d2202100e0930fe45420776</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-29 17:32:42</sys_updated_on>
+        <theme display_value="Emergency WS Theme">a732e25c78220210a6f79fd6c14eeb9a</theme>
+    </sys_ux_theme_m2m_asset>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 11:10:40</sys_created_on>
+        <sys_id>99977d46c3be0210b6e3d8ec0501314a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_1434439_safety">4a8619a1c3b60210b6e3d8ec05013198</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">4a8619a1c3b60210b6e3d8ec05013198</sys_scope>
+        <sys_update_name>sys_metadata_link_99977d46c3be0210b6e3d8ec0501314a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 11:10:40</sys_updated_on>
+        <tablename>sys_ux_theme_m2m_asset</tablename>
+    </sys_metadata_link>
+</record_update>

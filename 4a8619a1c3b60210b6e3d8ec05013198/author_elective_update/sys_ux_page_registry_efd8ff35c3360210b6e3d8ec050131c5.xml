@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>e3d8ff35c3360210b6e3d8ec050131c6</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <parent_app display_value="Portal UI Template Parent App">de0b852eb0c88210f8774b320398b357</parent_app>
+        <path>safety</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-16 01:57:07</sys_created_on>
+        <sys_id>efd8ff35c3360210b6e3d8ec050131c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safety</sys_name>
+        <sys_package display_value="Safety" source="x_1434439_safety">4a8619a1c3b60210b6e3d8ec05013198</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">4a8619a1c3b60210b6e3d8ec05013198</sys_scope>
+        <sys_update_name>sys_ux_page_registry_efd8ff35c3360210b6e3d8ec050131c5</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-16 01:57:07</sys_updated_on>
+        <title>Safety</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">4a8619a1c3b60210b6e3d8ec05013198</application>
+        <file_path/>
+        <instance_id>7d047f93db61869837d72a59139619a9</instance_id>
+        <instance_name>dev260498</instance_name>
+        <name>sys_ux_page_registry_efd8ff35c3360210b6e3d8ec050131c5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>e3d8ff35c3360210b6e3d8ec050131c6</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes>{"login":"login","logout": "login"}</auth_routes><page/><parent_app display_value="Portal UI Template Parent App">de0b852eb0c88210f8774b320398b357</parent_app><path>safety</path><root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-06-16 01:57:07</sys_created_on><sys_id>efd8ff35c3360210b6e3d8ec050131c5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Safety</sys_name><sys_package display_value="Safety" source="x_1434439_safety">4a8619a1c3b60210b6e3d8ec05013198</sys_package><sys_policy/><sys_scope display_value="Safety">4a8619a1c3b60210b6e3d8ec05013198</sys_scope><sys_update_name>sys_ux_page_registry_efd8ff35c3360210b6e3d8ec050131c5</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-06-16 01:57:07</sys_updated_on><title>Safety</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-979276015</payload_hash>
+        <record_name>Safety</record_name>
+        <reverted_from/>
+        <source>063bd400c3320210b6e3d8ec050131bb</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-06-09 23:19:16</sys_created_on>
+        <sys_id>df9d7b39c3360210b6e3d8ec050131ee</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18fff4c85200000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>9f9d7b39dc360210058c24e5569509ee</update_guid>
+        <update_guid_history>9f9d7b39dc360210058c24e5569509ee:-979276015</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-16 02:17:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>3a3cea250b9f4a23b8c7f2ec49911a11</sys_id>
+        <sys_metadata>efd8ff35c3360210b6e3d8ec050131c5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safety</sys_name>
+        <sys_package display_value="Safety" source="x_1434439_safety">4a8619a1c3b60210b6e3d8ec05013198</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">4a8619a1c3b60210b6e3d8ec05013198</sys_scope>
+        <sys_scope_delete display_value="">000b1b5099014fdf8811045aa952eae1</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_efd8ff35c3360210b6e3d8ec050131c5</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_efd8ff35c3360210b6e3d8ec050131c5">df9d7b39c3360210b6e3d8ec050131ee</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-16 02:17:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

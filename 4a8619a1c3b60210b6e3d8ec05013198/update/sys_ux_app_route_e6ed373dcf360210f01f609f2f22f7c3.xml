@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config/>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Preferences</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Settings Page">22ed373d3336021036ec5bd87b7187c4</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>cketv4fts00003g8yxah9e3hs</route_type>
+        <screen_type display_value="Preferences">62ed373daf360210046342ef5c4b78c3</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-16 02:19:07</sys_created_on>
+        <sys_id>e6ed373dcf360210f01f609f2f22f7c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Preferences</sys_name>
+        <sys_package display_value="Safety" source="x_1434439_safety">4a8619a1c3b60210b6e3d8ec05013198</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">4a8619a1c3b60210b6e3d8ec05013198</sys_scope>
+        <sys_update_name>sys_ux_app_route_e6ed373dcf360210f01f609f2f22f7c3</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-16 02:19:07</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=e6ed373dcf360210f01f609f2f22f7c3"/>
+</record_update>
